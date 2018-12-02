@@ -5,7 +5,7 @@
 
 # Tech
 * MVC.NET Web application
-* DI via Microsoft Unity
+* DI via Microsoft Unity.Mvc
 * Cache/MSSQL
 * EntityFramework
 * TDD 
