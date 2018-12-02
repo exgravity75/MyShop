@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.Core", "MyShop.Core\MyShop.Core.csproj", "{C60B95BA-8CB5-4988-8A84-35D592F711DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.MyShop.Core", "MyShop.Core\1.MyShop.Core.csproj", "{C60B95BA-8CB5-4988-8A84-35D592F711DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.Services", "MyShop.Services\MyShop.Services.csproj", "{92486F3F-2FE6-44A9-9880-9FABB5261255}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.MyShop.Services", "MyShop.Services\4.MyShop.Services.csproj", "{92486F3F-2FE6-44A9-9880-9FABB5261255}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.DataAccess.SQL", "MyShop.DataAccess.SQL\MyShop.DataAccess.SQL.csproj", "{89F1169A-3111-4ECA-8EB5-282AF8EF1B59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.MyShop.DataAccess.SQL", "MyShop.DataAccess.SQL\3.MyShop.DataAccess.SQL.csproj", "{89F1169A-3111-4ECA-8EB5-282AF8EF1B59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.DataAccess.InMemory", "MyShop.DataAccess.InMemory\MyShop.DataAccess.InMemory.csproj", "{B5C3EE9F-CEEE-41ED-9E67-696CF4AFECD6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.MyShop.DataAccess.InMemory", "MyShop.DataAccess.InMemory\2.MyShop.DataAccess.InMemory.csproj", "{B5C3EE9F-CEEE-41ED-9E67-696CF4AFECD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.WebUI", "MyShop.WebUI\MyShop.WebUI.csproj", "{60C21280-5A52-485E-AFAC-663F87274941}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.MyShop.WebUI", "MyShop.WebUI\5.MyShop.WebUI.csproj", "{60C21280-5A52-485E-AFAC-663F87274941}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.WebUI.Tests", "MyShop.WebUI.Tests\MyShop.WebUI.Tests.csproj", "{E4622616-96DF-4F1F-A233-3040E911B495}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.MyShop.WebUI.Tests", "MyShop.WebUI.Tests\6.MyShop.WebUI.Tests.csproj", "{E4622616-96DF-4F1F-A233-3040E911B495}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
