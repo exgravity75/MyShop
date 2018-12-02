@@ -1,10 +1,11 @@
 # MyShop
 * My shop e-commerce sample
-* MVC.NET 5 web application
+
 
 
 # Tech
-* Unity DI
+* MVC.NET Web application
+* DI via Microsoft Unity
 * Cache/MSSQL
-* Entity Framework
+* EntityFramework
 * TDD 
