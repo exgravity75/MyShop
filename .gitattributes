@@ -1,2 +1,1 @@
-$ cat .gitattributes
-*.cs linguist-language=C#
+static/* linguist-vendored
