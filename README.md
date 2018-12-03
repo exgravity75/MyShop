@@ -4,7 +4,7 @@
 
 
 # Tech
-* MVC.NET Web application
+* MVC.NET Web application with Bootstrap
 * DI via Microsoft Unity
 * Cache/MSSQL
 * EntityFramework
