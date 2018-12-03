@@ -37,12 +37,13 @@ namespace MyShop.Services
                 {
                     basket = basketContext.Find(basketId);
                 }
-                else
+                
+            }
+            else
+            {
+                if (createIfNull)
                 {
-                    if(createIfNull)
-                    {
-                        basket = CreateNewBasket(httpContext);
-                    }
+                    basket = CreateNewBasket(httpContext);
                 }
             }
 
