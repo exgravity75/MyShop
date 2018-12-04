@@ -28,8 +28,28 @@ namespace MyShop.DataAccess.SQL
 
         public void Commit()
         {
+
             context.SaveChanges();
+            //use BeginTransaction
+            /*
+            using (var dbContextTransaction = context.Database.BeginTransaction())
+            {
+                try
+                {
+                    context.SaveChanges();
+                    dbContextTransaction.Commit();
+
+                }
+                catch
+                {
+                    dbContextTransaction.Rollback();
+                }
+                    
+            }
+            */
         }
+
+    
 
         public void Delete(string Id)
         {
