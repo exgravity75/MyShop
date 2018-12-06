@@ -18,6 +18,8 @@ namespace MyShop.WebUI.Controllers
 
         public ManageController()
         {
+            //_userManager.AddClaim("", )
+            //_userManager.AddToRole("", "Admin");
         }
 
         
